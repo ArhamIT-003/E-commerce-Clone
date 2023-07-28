@@ -4,6 +4,7 @@ import Layout from "./utils/Layout/Layout";
 import Home from "./pages/Home/Home";
 import Products from "./pages/Products/Products";
 import Product from "./pages/Product/Product";
+import "./App.css";
 
 const router = createBrowserRouter([
   {
